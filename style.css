@@ -52,6 +52,7 @@ section{
     justify-content: space-between; 
 }
 article{
+    width: 350px;
     background-color: #5C7C90;
     margin: 27px;
     padding: 0 40px 40px 40px;
